@@ -33,7 +33,7 @@ My research revolves around the concept of transformation, which includes medium
       </td>
     </tr>
     <tr>
-      <td style="border-bottom-width:0;"><img src="assets/img/northwestern.png" width="60"></td>
+      <td style="border-bottom-width:0;"><img src="assets/img/northwestern.jpg" width="60"></td>
       <td style="border-bottom-width:0;">
         <strong>Northwestern University</strong> <br> 2019.09- 2023.06 <br> B.S. in Comparative Literature and Radiio/TV/Film, Magna Cum Laude
       </td>
