@@ -29,7 +29,7 @@ My research revolves around the concept of transformation, which includes medium
     <tr>
       <td style="border-bottom-width:0;"><img src="assets/img/ucb.jpg" width="60"></td>
       <td style="border-bottom-width:0;">
-        <strong>University of California, Berkeley</strong> <br> 2023.08 - now <br> PhD
+        <strong>University of California, Berkeley</strong> <br> 2023.08 - now <br> PhD in Film and Media Studies 
       </td>
     </tr>
     <tr>
